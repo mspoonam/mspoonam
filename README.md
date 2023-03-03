@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Principal Engineer</h1>
-<h2 align="center"> A passionate professional in iOS Android & Hybrid Mobile application development </h2>
+<h1 align="center">Hi 👋, I'm Principal Engineer - iOS </h2>
 <h2 align="center"> Trucking & Transportation, Fintech, Banking, Ecommerce & Education Domains</h2>
 
 - 🔭 I’m currently working with **ELD Mandate**
@@ -13,8 +12,6 @@
 - 📫 How to reach me **mspoonam.learning@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/poonam-pandey-05/](https://www.linkedin.com/in/poonam-pandey-05/)
-
-- ⚡ Fun fact **I think I am a flexible and cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
