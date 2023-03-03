@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Principal Engineer - iOS</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Principal Engineer</h1>
+<h2 align="center"> A passionate professional in iOS Android & Hybrid Mobile application development </h2>
+<h2 align="center"> Trucking & Transportation, Fintech, Banking, Ecommerce & Education Domains</h2>
 
 - 🔭 I’m currently working with **ELD Mandate**
 
