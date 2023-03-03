@@ -1,13 +1,19 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNkZmIyOTlhY2EwYjk0ZjI1YWNkYTUwMGU5ZjZlY2NjYjNkOWJlYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)" width="100"/>
-</div>
+
 
 <!--
 **mspoonam/mspoonam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNkZmIyOTlhY2EwYjk0ZjI1YWNkYTUwMGU5ZjZlY2NjYjNkOWJlYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif
 Here are some ideas to get you started:
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNkZmIyOTlhY2EwYjk0ZjI1YWNkYTUwMGU5ZjZlY2NjYjNkOWJlYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)" width="100"/>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
