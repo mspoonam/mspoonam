@@ -20,8 +20,6 @@
   - UOB TMRW : https://apps.apple.com/sg/app/uob-tmrw/id1049286296
   - Mighty Malaysia: https://apps.apple.com/my/app/uob-mighty-malaysia/id1239716055
 
-![image](https://user-images.githubusercontent.com/35603752/228044015-2df9b21d-6f46-4e96-9404-14c2cbc77ab4.png)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
