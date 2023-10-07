@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Principal Engineer - iOS </h2>
+<h1 align="center">Hi 👋 </h2>
 <h2 align="center"> Trucking & Transportation, Fintech, Banking, Ecommerce & Education Domains</h2>
 
 ![Poonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mspoonam&show_icons=true&theme=radical)
