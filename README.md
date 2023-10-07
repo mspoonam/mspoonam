@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **mspoonam.learning@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/poonam-pandey-05/](https://www.linkedin.com/in/poonam-pandey-05/)
-
 - 👩‍💻 Apps I was a founder member 
   - Shaadi.com on AppStore : https://apps.apple.com/us/app/shaadi-com-matrimony-app/id480093204
   - ELDMandate Plus on AppStore : https://apps.apple.com/in/app/eld-mandate-plus/id1483972927
