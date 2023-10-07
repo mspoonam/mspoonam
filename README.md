@@ -7,13 +7,11 @@
 
 - 📫 How to reach me **mspoonam.learning@gmail.com**
 
-- 👩‍💻 Apps I was a founder member 
+- 👩‍💻 My Work / My Team 
   - Shaadi.com on AppStore : https://apps.apple.com/us/app/shaadi-com-matrimony-app/id480093204
   - ELDMandate Plus on AppStore : https://apps.apple.com/in/app/eld-mandate-plus/id1483972927
   - ELDMandate Portal on AppStore : https://apps.apple.com/us/app/lightstream/id1531200255
   - ELDMandate Dashcam : https://play.google.com/store/apps/details?id=com.car.dashcam&hl=en_CA&gl=US
-
-- 👩‍💻 Apps I architected and optimised
   - LightStream on AppStore : https://apps.apple.com/us/app/lightstream/id1531200255
   - UOB TMRW : https://apps.apple.com/sg/app/uob-tmrw/id1049286296
   - Mighty Malaysia: https://apps.apple.com/my/app/uob-mighty-malaysia/id1239716055
