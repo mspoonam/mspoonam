@@ -3,7 +3,7 @@
 
 ![Poonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mspoonam&show_icons=true&theme=radical)
 
-- 💬 Ask me about **Swift, SwiftUI, iOS , Android, Motivational Leader**
+- 💬 Ask me about **Swift, SwiftUI, iOS , Android**
 
 - 📫 How to reach me **mspoonam.learning@gmail.com**
 
